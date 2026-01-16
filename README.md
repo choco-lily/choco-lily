@@ -1,3 +1,4 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/chocolily)
 ![chocoily's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@chocolily)
 
 <!--
